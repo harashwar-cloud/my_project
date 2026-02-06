@@ -1,0 +1,20 @@
+Project Title: Personal Git Practice Project
+
+Description:
+This project is created to understand and practice the basic workflow of Git.
+It includes creating a Git repository, tracking files, and managing changes
+using commits.
+
+Objectives:
+- Learn how to initialize a Git repository
+- Understand staging and committing files
+- Practice writing meaningful commit messages
+- View and understand commit history
+
+Tools Used:
+- Git
+- Visual Studio Code
+
+Outcome:
+By working on this project, I gain hands-on experience with version control
+and understand how Git helps in managing project versions efficiently.
