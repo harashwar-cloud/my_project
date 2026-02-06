@@ -18,3 +18,7 @@ Tools Used:
 Outcome:
 By working on this project, I gain hands-on experience with version control
 and understand how Git helps in managing project versions efficiently.
+
+Update:
+This update adds more clarity to the project goals and improves the overall
+documentation as part of practicing multiple Git commits.
